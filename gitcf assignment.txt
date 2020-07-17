@@ -1,0 +1,7 @@
+echo "# Assignment-3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shah2400000/Assignment-3.git
+git push -u origin master
+                
